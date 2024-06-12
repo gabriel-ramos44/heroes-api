@@ -79,4 +79,3 @@ Este projeto implementa uma API RESTful com autenticação JWT usando NestJS, Ty
 
 3. **Faça o Deploy para o Elastic Beanstalk:**
    - Utilize o AWS CLI ou o AWS Management Console para criar um novo ambiente do Elastic Beanstalk.
-   - Siga as instruções para fazer o upload do código da sua aplicação.
